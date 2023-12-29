@@ -5,3 +5,15 @@ Some important Algorithms that need to be focused while learning Arrays:
   4.) Kadane Algo
   5.) Dutch National Flag Algo
   6.) Difference Array Technique
+
+Prefix-sum Array:
+https://leetcode.com/problems/product-of-array-except-self/description/
+https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/
+https://leetcode.com/problems/continuous-subarray-sum/description/
+https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/
+https://leetcode.com/problems/plates-between-candles/description/
+https://leetcode.com/problems/minimum-space-wasted-from-packaging/description/
+
+Difference Array Technique:
+https://leetcode.com/problems/car-pooling/description/
+https://leetcode.com/problems/smallest-rotation-with-highest-score/description/
