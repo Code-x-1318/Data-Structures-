@@ -1,7 +1,9 @@
-Sliding Window has 2 variations: a.) fixed size Sliding Window  b.) Varibale Size Sliding Window
+Sliding Window has 2 variations: 
+  a.) fixed size Sliding Window  
+  b.) Varibale Size Sliding Window
 
 Fixed Size Sliding Window:
-
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/
 
 
 
@@ -9,3 +11,4 @@ Variable Size Sliding Window:
 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 https://leetcode.com/problems/max-consecutive-ones-iii/description/
 https://leetcode.com/problems/fruit-into-baskets/description/
+https://leetcode.com/problems/minimum-window-substring/
